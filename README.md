@@ -7,4 +7,5 @@
 
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=kemalmutlu&count_private=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kemalmutlu&layout=compact)
