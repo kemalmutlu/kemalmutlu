@@ -1,7 +1,5 @@
 # Hey, I'm Kemal 👋
 
-### I develop myself about Web Application and Software Development topics.
-
 [![GitHub](https://img.shields.io/badge/GitHub-kemalmutlu-black)](https://github.com/kemalmutlu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kemalmutlu-blue)](https://www.linkedin.com/in/kemalmutlu/)
 
